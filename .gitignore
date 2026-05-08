@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.pid
+*.pids
+rpow2_cuda_search
+.rpow2_cookie
